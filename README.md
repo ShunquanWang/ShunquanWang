@@ -15,12 +15,9 @@ I'm **Shunquan Wang**, a passionate developer focused on **TypeScript**, **Graph
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tclxshunquan-wang&layout=compact&theme=tokyonight)
 
-## 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tclxshunquan-wang&theme=github-dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight&count_private=true)
 
 ## 📫 Contact Me
 - GitHub: [github.com/tclxshunquan-wang](https://github.com/tclxshunquan-wang)
