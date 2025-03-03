@@ -20,7 +20,5 @@ I'm **Shunquan Wang**, a passionate developer focused on **TypeScript**, **Graph
 
 ## 📫 Contact Me
 - GitHub: [github.com/tclxshunquan-wang](https://github.com/tclxshunquan-wang)
-- Blog: [your-blog.com](https://your-blog.com)
-- Twitter: [@your-handle](https://twitter.com/your-handle)
 
 Thanks for stopping by! 😊 Feel free to check out my projects and contribute! 🚀
