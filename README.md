@@ -61,7 +61,7 @@
 
 ### 📈 Activity Overview
 <a href="https://github.com/tclxshunquan-wang">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight&rank_icon=percentile" />
 </a>
 <a href="https://github.com/tclxshunquan-wang">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tclxshunquan-wang&layout=compact&theme=tokyonight" />
