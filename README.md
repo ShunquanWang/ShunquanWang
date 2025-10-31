@@ -54,12 +54,10 @@
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats & Achievements
 
-<div >
-
-<!-- ### 📈 Activity Overview
+### 📈 Activity Overview
 <a href="https://github.com/tclxshunquan-wang">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight&rank_icon=percentile" />
 </a>
@@ -74,7 +72,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tclxshunquan-wang&color=blue&style=flat-square)
 
-</div>
 
 ---
 
