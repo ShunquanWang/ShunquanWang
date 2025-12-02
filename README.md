@@ -53,17 +53,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
 
----
-<!--
-## 📊 GitHub Stats & Achievements
-
-### 📈 Activity Overview
-<a href="https://github.com/tclxshunquan-wang">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tclxshunquan-wang&show_icons=true&theme=tokyonight&rank_icon=percentile" />
-</a>
-<a href="https://github.com/tclxshunquan-wang">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tclxshunquan-wang&layout=compact&theme=tokyonight" />
-</a> -->
 
 ### 📜 Profile Summary Cards
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
