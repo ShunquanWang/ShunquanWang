@@ -59,7 +59,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tclxshunquan-wang&theme=tokyonight" />
 </a>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=tclxshunquan-wang&color=blue&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ShunquanWang&color=blue&style=flat-square)
 
 
 ---
