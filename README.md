@@ -65,7 +65,7 @@
 ---
 
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%40tclxshunquan--wang-181717?logo=github)](https://github.com/tclxshunquan-wang)
+[![GitHub](https://img.shields.io/badge/GitHub-%40ShunquanWang-181717?logo=github)](https://github.com/tclxshunquan-wang)
 
 ---
 
