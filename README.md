@@ -56,8 +56,6 @@
 
 ### 📜 Profile Summary Cards
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShunquanWang&theme=tokyonight" />
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=ShunquanWang&color=blue&style=flat-square)
 
 
