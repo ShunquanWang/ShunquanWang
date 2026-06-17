@@ -1,69 +1,136 @@
-# Hi there! 👋 I'm Shunquan Wang
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:22C55E&height=180&section=header&text=Shunquan%20Wang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%7C%20TypeScript%20%7C%20GraphQL%20%7C%20AI%20Agents&descAlignY=58&descSize=16" alt="Shunquan Wang" />
+</p>
 
-**Frontend Engineer | TypeScript Enthusiast | GraphQL Explorer**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=720&lines=Building+type-safe+frontend+systems;Exploring+GraphQL%2C+Next.js+and+AI+agents;Turning+developer+workflows+into+reliable+tools" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShunquanWang">
+    <img src="https://img.shields.io/badge/GitHub-ShunquanWang-181717?logo=github" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShunquanWang&color=2563eb&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Engineering-0EA5E9" alt="Focus" />
+  <img src="https://img.shields.io/badge/AI-Agent%20Development-22C55E" alt="AI Agent Development" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on **Hyperse Data Tracker** and advanced **frontend data collection** solutions.
-- 💡 Passionate about **TypeScript type inference**, **Apollo GraphQL**, and **Next.js internationalization**.
-- 🌱 Continuously improving **type-checking** precision and frontend **performance optimization**.
-- 🎯 Believe in **clean code**, **strong typing**, and **developer experience**.
+## 👋 About Me
+
+I'm a **Frontend Engineer** focused on building reliable, scalable, and developer-friendly applications.
+
+| 🔭 Currently | Building **Hyperse Data Tracker** and frontend data collection solutions |
+| --- | --- |
+| 🧠 Deep interests | TypeScript type inference, Apollo GraphQL, Next.js architecture |
+| 🤖 AI direction | AI agents, tool calling, RAG, structured output, workflow automation |
+| 🧰 Engineering taste | Clean boundaries, strong typing, reusable tooling, practical abstraction |
+| 🎯 Goal | Build software that is easy to use, easy to reason about, and easy to evolve |
+
+---
+
+## 🧭 What I Build
+
+| Area | Keywords |
+| --- | --- |
+| 🧩 Frontend Architecture | React, Next.js, App Router, component design, performance |
+| 🛡 TypeScript Engineering | generics, conditional types, utility types, type-safe APIs |
+| 🔗 GraphQL Data Layer | Apollo Client, schema-first development, cache strategy, codegen |
+| 🌍 Internationalization | next-intl, locale routing, multilingual product experience |
+| 🤖 AI Applications | agents, tools, RAG, prompt workflows, AI-assisted development |
+| 📊 Data Tracking | event modeling, analytics reliability, frontend instrumentation |
+
+---
+
+## 🤖 AI & Agent Skills
+
+```ts
+const aiSkillSet = {
+  agentDevelopment: ['tool calling', 'multi-step workflows', 'structured output'],
+  llmApps: ['RAG', 'prompt engineering', 'human-in-the-loop experience'],
+  frontendAI: ['AI-assisted UI', 'chat interfaces', 'developer automation'],
+  engineeringAutomation: ['code generation', 'documentation', 'workflow tools'],
+} as const;
+```
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-2563EB" alt="RAG" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Markup**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white)
+### Languages & Core
 
-**Frontend Frameworks & Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?logo=reactquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,graphql,html,css,md,nodejs,python&theme=light" alt="Languages and core technologies" />
+</p>
 
-**Build Tools & Bundlers**  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
-![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?logo=rollup.js&logoColor=white)
-![SWC](https://img.shields.io/badge/-SWC-FFB300?logo=swc&logoColor=black)
+### Frontend
 
-**Testing & Quality**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba4b?logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,webpack,babel&theme=light" alt="Frontend technologies" />
+</p>
 
-**Others**  
-![Next-Intl](https://img.shields.io/badge/-Next--Intl-000?logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?logo=pnpm&logoColor=white)
+### Quality & Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,playwright,cypress,eslint,prettier,git,githubactions,docker,pnpm&theme=light" alt="Quality and tools" />
+</p>
 
-### 📜 Profile Summary Cards
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ShunquanWang&color=blue&style=flat-square)
-
+<p>
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollo-graphql&logoColor=white" alt="Apollo GraphQL" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/next--intl-000000?logo=next.js&logoColor=white" alt="next-intl" />
+  <img src="https://img.shields.io/badge/SWC-FFB300?logo=swc&logoColor=black" alt="SWC" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%40ShunquanWang-181717?logo=github)](https://github.com/tclxshunquan-wang)
+## 📌 Engineering Principles
+
+| Principle | Meaning |
+| --- | --- |
+| **Type first** | Make invalid states hard to represent |
+| **Clear boundaries** | Keep UI, data, and business logic easy to reason about |
+| **Performance-aware** | Optimize real user experience, not only scores |
+| **DX matters** | Turn repeated work into reliable tools |
+| **AI as leverage** | Use agents to amplify engineering workflows |
 
 ---
 
-✨ _Thanks for visiting! Feel free to explore my repositories and collaborate on cool projects!_
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShunquanWang&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced TypeScript type modeling and inference
+- GraphQL schema design, Apollo cache, and generated type workflows
+- Next.js App Router, i18n architecture, and frontend performance
+- AI agent development, tool use, RAG, and automation workflows
+- Frontend data tracking, analytics reliability, and observability
+
+---
+
+## 📫 Connect
+
+<p>
+  <a href="https://github.com/ShunquanWang">
+    <img src="https://img.shields.io/badge/GitHub-ShunquanWang-181717?logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:6366F1,100:0EA5E9&height=100&section=footer" alt="Footer" />
+</p>
